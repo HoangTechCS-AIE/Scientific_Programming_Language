@@ -1,0 +1,5 @@
+a, b = map(int, input("nhap a, b cach nhau 1 dau cach").split())
+print(f"a + b = {a + b}")
+print(f"a - b = {a - b}")
+print(f"a * b = {a * b}")
+print(f"a / b = {a / b:.3f}")
